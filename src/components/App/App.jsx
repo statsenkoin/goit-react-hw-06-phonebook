@@ -39,7 +39,6 @@ export function App() {
 
   const addTestData = () => {
     // storage.add('contacts', initialContacts);
-
     /**
      * initialContacts as test data may be added several times
      * It checks items and prevents adding if some of initialContacts
